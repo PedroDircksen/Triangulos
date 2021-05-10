@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\Triangulos.cs\Triangulos\obj\Debug\Triangulos.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Triangulos.cs\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Triangulos.cs\Triangulos\bin\Debug\Triangulos.exe.config
+C:\Users\pedro\source\repos\Triangulos.cs\Triangulos\bin\Debug\Triangulos.exe
+C:\Users\pedro\source\repos\Triangulos.cs\Triangulos\bin\Debug\Triangulos.pdb
+C:\Users\pedro\source\repos\Triangulos.cs\Triangulos\obj\Debug\Triangulos.exe
+C:\Users\pedro\source\repos\Triangulos.cs\Triangulos\obj\Debug\Triangulos.pdb
